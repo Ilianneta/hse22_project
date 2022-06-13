@@ -29,3 +29,7 @@
 ![image](https://user-images.githubusercontent.com/56909634/173444117-0582e2e1-5c17-42fc-abbe-11971c9f962c.png)
 
 Всего 3682 кластера. 
+
+Информация по 10 выбранным кластерам:
+
+![image](https://user-images.githubusercontent.com/56909634/173445606-250abf25-b14c-41ad-88c8-9e3e7af6964d.png)
